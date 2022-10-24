@@ -1,11 +1,13 @@
+
+![](https://komarev.com/ghpvc/?username=raonibrasil&color=006bed)
+
 ## Bem vindo ao meu perfil 👋
 
 
 - 👋 Olá! Sou o Raoni Castanha
 - :books: Estudante de Python / HTML / CSS / SQL - Database 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 📫 Sinta-se à vontade para entrar em contato comigo através do email: castanharaoni@gmail.com
+- 🌎 Sou do Brasil / I'm Brazilian
 
 
 ## Aprendendo: 
@@ -16,7 +18,7 @@
            
 ## Contato: 
  
-<div>
+ <div>
 <a href = "castanharaoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/raonicastanha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
